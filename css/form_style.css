@@ -1,0 +1,28 @@
+div.form_handler {
+	text-align: center;
+}
+
+form {
+	margin: 20px auto;
+	width: 330px;
+	text-align: right;
+}
+
+form > input[type=text], form > input[type=password] {
+	width: 200px;
+	margin-left: 10px;
+}
+
+form > #checkbox_bx {
+	padding: 20px 0px;
+	text-align: right;
+}
+
+form > #checkbox_bx > input[type=checkbox] {
+	margin-right: 10px;
+}
+
+form > #submit_btn {
+	padding-top: 10px;
+	text-align: center;
+}

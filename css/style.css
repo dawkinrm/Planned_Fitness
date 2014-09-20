@@ -113,14 +113,27 @@ header {
 	text-shadow: none;
 	font-size: 16px;
 	padding: 20px;
+}
 
+.navbar .nav > li > a.none {
+	color: #0000ff;
+	border-top-color: transparent;
+	text-decoration: underline;
 }
 
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
 	border-top:4px solid #1693a5;
-  	background: #1693a5 !important;		
-  	color: #fff;
+  background: #1693a5 !important;		
+  color: #fff;
+}
+
+.navbar .nav > li > a.none:focus,
+.navbar .nav > li > a.none:hover {
+	border-top-color: transparent;
+	text-decoration: none;
+	background: #fff !important;
+	color: #0000ff;
 }
 
 .navbar .nav > .active > a,
