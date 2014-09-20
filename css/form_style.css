@@ -2,6 +2,10 @@ div.form_handler {
 	text-align: center;
 }
 
+div.logintoregister {
+	text-align: center;
+}
+
 form {
 	margin: 20px auto;
 	width: 330px;
@@ -24,5 +28,10 @@ form > #checkbox_bx > input[type=checkbox] {
 
 form > #submit_btn {
 	padding-top: 10px;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 10px;
 	text-align: center;
 }
