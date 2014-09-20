@@ -188,7 +188,7 @@ header {
 }
 
 #page-title {
-	background: url(../img/bg-grey2.png);
+	background: url('../img/slider-bg.jpg');
 	display: block;
 	margin-bottom: 25px;
 	position: relative;

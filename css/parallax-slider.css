@@ -126,7 +126,7 @@
 	width: 12px;
 	height: 12px;
 	border-radius: 50%;
-	background: #99cc66;
+	background: #004384;
 	margin: 3px;
 	cursor: pointer;
 	box-shadow: 
@@ -843,7 +843,7 @@
 		top: 200px; /*depends on p height*/
 	}
 
-	.da-dots{
+	.da-dots {
 		width: 100%;
 		position: absolute;
 		text-align: center;
